@@ -1,7 +1,9 @@
 {
+  "name": "plausible",
   "scripts": {
     "build": "node compile.js"
   },
+  "browser": "index.js",
   "license": "MIT",
   "dependencies": {
     "handlebars": "^4.7.6",
