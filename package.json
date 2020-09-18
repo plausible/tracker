@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "node compile.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "uglify-js": "^3.9.4"
+  }
+}
